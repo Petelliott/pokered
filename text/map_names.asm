@@ -1,107 +1,107 @@
 MapNames:
 PalletTownName:
-	db "PALLET TOWN@"
+	db "PALEDO URBETO@"
 ViridianCityName:
-	db "VIRIDIAN CITY@"
+	db "BLUVERDA URBO@"
 PewterCityName:
-	db "PEWTER CITY@"
+	db "STANA URBO@"
 CeruleanCityName:
-	db "CERULEAN CITY@"
+	db "VERDBLUA URBO@"
 LavenderTownName:
-	db "LAVENDER TOWN@"
+	db "LAVENDA URBETO@"
 VermilionCityName:
-	db "VERMILION CITY@"
+	db "VERMILJONA URBO@"
 CeladonCityName:
-	db "CELADON CITY@"
+	db "VERDGLAZURA URBEGA@"
 FuchsiaCityName:
-	db "FUCHSIA CITY@"
+	db "FUKSIA URBO@"
 CinnabarIslandName:
-	db "CINNABAR ISLAND@"
+	db "CINABRA INSULO@"
 IndigoPlateauName:
-	db "INDIGO PLATEAU@"
+	db "INDIGA ALTIPLANO@"
 SaffronCityName:
-	db "SAFFRON CITY@"
+	db "SAFRANA URBO@"
 Route1Name:
-	db "ROUTE 1@"
+	db "IREJO 1@"
 Route2Name:
-	db "ROUTE 2@"
+	db "IREJO 2@"
 Route3Name:
-	db "ROUTE 3@"
+	db "IREJO 3@"
 Route4Name:
-	db "ROUTE 4@"
+	db "IREJO 4@"
 Route5Name:
-	db "ROUTE 5@"
+	db "IREJO 5@"
 Route6Name:
-	db "ROUTE 6@"
+	db "IREJO 6@"
 Route7Name:
-	db "ROUTE 7@"
+	db "IREJO 7@"
 Route8Name:
-	db "ROUTE 8@"
+	db "IREJO 8@"
 Route9Name:
-	db "ROUTE 9@"
+	db "IREJO 9@"
 Route10Name:
-	db "ROUTE 10@"
+	db "IREJO 10@"
 Route11Name:
-	db "ROUTE 11@"
+	db "IREJO 11@"
 Route12Name:
-	db "ROUTE 12@"
+	db "IREJO 12@"
 Route13Name:
-	db "ROUTE 13@"
+	db "IREJO 13@"
 Route14Name:
-	db "ROUTE 14@"
+	db "IREJO 14@"
 Route15Name:
-	db "ROUTE 15@"
+	db "IREJO 15@"
 Route16Name:
-	db "ROUTE 16@"
+	db "IREJO 16@"
 Route17Name:
-	db "ROUTE 17@"
+	db "IREJO 17@"
 Route18Name:
-	db "ROUTE 18@"
+	db "IREJO 18@"
 Route19Name:
-	db "SEA ROUTE 19@"
+	db "MARA IREJO 19@"
 Route20Name:
-	db "SEA ROUTE 20@"
+	db "MARA IREJO 20@"
 Route21Name:
-	db "SEA ROUTE 21@"
+	db "MARA IREJO 21@"
 Route22Name:
-	db "ROUTE 22@"
+	db "IREJO 22@"
 Route23Name:
-	db "ROUTE 23@"
+	db "IREJO 23@"
 Route24Name:
-	db "ROUTE 24@"
+	db "IREJO 24@"
 Route25Name:
-	db "ROUTE 25@"
+	db "IREJO 25@"
 ViridianForestName:
-	db "VIRIDIAN FOREST@"
+	db "BLUVERDA ARBARO@"
 MountMoonName:
-	db "MT.MOON@"
+	db "MONTARA LUNO@"
 RockTunnelName:
-	db "ROCK TUNNEL@"
+	db "ARGILA SUBTERVOJO@"
 SeaCottageName:
-	db "SEA COTTAGE@"
+	db "MARA KABANO@"
 SSAnneName:
-	db "S.S.ANNE@"
+	db "S.S.ANNO@"
 PokemonLeagueName:
-	db "#MON LEAGUE@"
+	db "#MON LIGO@"
 UndergroundPathName:
-	db "UNDERGROUND PATH@"
+	db "SUBTERA IREJO@"
 PokemonTowerName:
-	db "#MON TOWER@"
+	db "#MON TURO@"
 SeafoamIslandsName:
-	db "SEAFOAM ISLANDS@"
+	db "MARSxAUxMO INSULOJ@"
 VictoryRoadName:
-	db "VICTORY ROAD@"
+	db "VENKO STRATO@"
 DiglettsCaveName:
-	db "DIGLETT's CAVE@"
+	db "FOSETO GROTO@"
 RocketHQName:
-	db "ROCKET HQ@"
+	db "RAKETO CENTREJO@"
 SilphCoName:
-	db "SILPH CO.@"
+	db "SILFO KO.@"
 PokemonMansionName:
-	db $4a," MANSION@"
+	db $4a," DOMEGO@"
 SafariZoneName:
-	db "SAFARI ZONE@"
+	db "SAFARIO ZONO@"
 CeruleanCaveName:
-	db "CERULEAN CAVE@"
+	db "VERDBLUA GROTO@"
 PowerPlantName:
-	db "POWER PLANT@"
+	db "ELEKTREJO@"
