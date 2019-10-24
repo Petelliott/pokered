@@ -16,7 +16,7 @@ To set up the repository, see [**INSTALL.md**](INSTALL.md).
 
 ## character set
 
-The bitmap graphics are generated from [gfs/fonts.png](gfx/fonts.png).
+The bitmap graphics are generated from [gfx/fonts.png](gfx/fonts.png).
 
 Each character is 8x8 pixels and normally includes whitespace to the right and
 bottom.
