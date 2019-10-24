@@ -76,7 +76,7 @@ MonsterNames:
 	db "ELEKTOR@@@"
 	db "METAMORF@@"
 	db "MIAUxT@@@@@"
-	db "KRABO@@@@"
+	db "KRABO@@@@@"
 	db "MISSINGNO."
 	db "MISSINGNO."
 	db "MISSINGNO."
