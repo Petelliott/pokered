@@ -4,23 +4,23 @@ PalletTownName:
 ViridianCityName:
 	db "BLUVERDA URBO@"
 PewterCityName:
-	db "STANO URBO@"
+	db "STANA URBO@"
 CeruleanCityName:
 	db "VERDBLUA URBO@"
 LavenderTownName:
-	db "LAVENDO URBETO@"
+	db "LAVENDA URBETO@"
 VermilionCityName:
-	db "VERMILJONO URBO@"
+	db "VERMILJONA URBO@"
 CeladonCityName:
-	db "VERDGLAZURO URBEGA@"
+	db "VERDGLAZURA URBEGA@"
 FuchsiaCityName:
 	db "FUKSIA URBO@"
 CinnabarIslandName:
-	db "CINABRO INSULO@"
+	db "CINABRA INSULO@"
 IndigoPlateauName:
-	db "INDIGO ALTIPLANO@"
+	db "INDIGA ALTIPLANO@"
 SaffronCityName:
-	db "SAFRANO URBO@"
+	db "SAFRANA URBO@"
 Route1Name:
 	db "IREJO 1@"
 Route2Name:
@@ -84,7 +84,7 @@ SSAnneName:
 PokemonLeagueName:
 	db "#MON LIGO@"
 UndergroundPathName:
-	db "SUBIREJO@"
+	db "SUBTERA IREJO@"
 PokemonTowerName:
 	db "#MON TURO@"
 SeafoamIslandsName:
