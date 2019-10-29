@@ -1,55 +1,56 @@
 _OakAppearsText::
-	text "OAK: Hey! Wait!"
-	line "Don't go out!@@"
+	text "OAK: Hola! Atendu!"
+	line "ne iru ekstere@@"
 
 _OakWalksUpText::
-	text "OAK: It's unsafe!"
-	line "Wild #MON live"
-	cont "in tall grass!"
+	text "OAK: Gxi estas"
+	line "malsekura! Sovagxa"
+	cont "#MON logxas en"
+	cont "alta greso!"
 
-	para "You need your own"
-	line "#MON for your"
-	cont "protection."
-	cont "I know!"
+	para "Vi bezonas vian"
+	line "propra #MON por"
+	cont "via protektado."
+	cont "Mi scias!"
 
-	para "Here, come with"
-	line "me!"
+	para "Venu kun mi!"
 	done
 
 _PalletTownText2::
-	text "I'm raising"
-	line "#MON too!"
+	text "Mi bredas"
+	line "#MON ankaux!"
 
-	para "When they get"
-	line "strong, they can"
-	cont "protect me!"
+	para "Kiam ili igxas"
+	line "forta, ili povas"
+	cont "protekti min!"
 	done
 
 _PalletTownText3::
-	text "Technology is"
-	line "incredible!"
+	text "Telnologio estas"
+	line "nekredebla!"
 
-	para "You can now store"
-	line "and recall items"
-	cont "and #MON as"
-	cont "data via PC!"
+	para "Vi nun povas"
+	line "deponi kaj"
+	cont "revenigas erojn"
+	cont "kaj #MON kiel"
+	cont "datao de PC!"
 	done
 
 _PalletTownText4::
 	text "OAK #MON"
-	line "RESEARCH LAB"
+	line "ESPLORA LABO"
 	done
 
 _PalletTownText5::
-	text "PALLET TOWN"
-	line "Shades of your"
-	cont "journey await!"
+	text "PALEDO URBETO"
+	line "Nuancoj de via"
+	cont "vojagxo atendas!"
 	done
 
 _PalletTownText6::
-	text "<PLAYER>'s house "
+	text "domo de <PLAYER> "
 	done
 
 _PalletTownText7::
-	text "<RIVAL>'s house "
+	text "domo de <RIVAL> "
 	done
