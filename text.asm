@@ -2012,19 +2012,19 @@ _FileDataDestroyedText::
 	prompt
 
 _WouldYouLikeToSaveText::
-	text "Would you like to"
-	line "SAVE the game?"
+	text "Cxu vi deziri"
+	line "KONSERVI la ludon?"
 	done
 
 _GameSavedText::
-	text "<PLAYER> saved"
-	line "the game!"
+	text "<PLAYER> konservis"
+	line "la ludon!"
 	done
 
 _OlderFileWillBeErasedText::
-	text "The older file"
-	line "will be erased to"
-	cont "save. Okay?"
+	text "La pliagxa dosiero"
+	line "forvisxos por"
+	cont "konservi. Okej?"
 	done
 
 _WhenYouChangeBoxText::
